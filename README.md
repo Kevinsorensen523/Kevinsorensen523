@@ -24,4 +24,4 @@
 ![CSS](https://img.shields.io/badge/-CSS-9ae4fc?style=flat&logo=Css3&logoColor=2a96f5)
 
 ![Solidity](https://img.shields.io/badge/-Solidity-d4d4d4?style=flat&logo=Solidity&logoColor=363636)
-![Web3](https://img.shields.io/badge/-Web3.js-black?style=flat&logo=Solidity&logoColor=F16822)
+![Web3](https://img.shields.io/badge/-Web3.js-black?style=flat&logo=Web3.js&logoColor=F16822)
