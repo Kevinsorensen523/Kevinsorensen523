@@ -10,6 +10,7 @@
 ![Vue](https://img.shields.io/badge/-Vue-01735a?style=flat&logo=vuedotjs)
 ![React](https://img.shields.io/badge/-React-023e6b?style=flat&logo=react&logoColor=b3f7ff)
 ![Ionic](https://img.shields.io/badge/-Ionic-035063?style=flat&logo=ionic&logoColor=d4eafa)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat&logo=tailwindcss&logoColor=06B6D4)
 
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-663304?style=flat&logo=jupyter)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-pink?style=flat&logo=Pytorch)
