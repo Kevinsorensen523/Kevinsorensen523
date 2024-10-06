@@ -1,5 +1,5 @@
 ### Hi there I'm Kevin Sorensen 👋 <a href="https://github.com/kevinsorensen523"></a>
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=antoniuskevin15.about-me)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kevinsorensen523.about-me)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinsorensen523&hide=asp.net&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&title_color=22a4b3&custom_title=Top%20Languages)](https://github.com/kevinsorensen523)
 
